@@ -876,6 +876,11 @@ footer .wrapper figure img {
 	object-fit: cover;
 	width: 100%;
 }
+
+.footer-right {
+	width: 50%;
+	height: 300px;
+}
 /*=================================
   footer styling ends here
 =================================*/
