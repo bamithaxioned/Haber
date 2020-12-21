@@ -1,4 +1,4 @@
-function initMap(location) {
+function initMap() {
    
     // latitude and longitude of Mumbai
     let mumbai = { lat: 19.0760, lng: 72.8777 };
